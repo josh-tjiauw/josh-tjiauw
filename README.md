@@ -15,8 +15,14 @@
 <img height="20px" alt="GitHub" src="https://i.imgur.com/u7cDmQI.png" />
 </p>
 
-:heart: My web developer journey started from a young age, since I am always curious on how UI's of websites can do many different things and designed in different ways.
-
+<h1>About Me</h1>
+<p>
+- :pencil2: My web developer journey started from a young age. I have always been curious on how UI's and functionalities are constructed in websites.
+- :muscle: What keeps me going in development is the feeling of accomplishment after finishing that problem or project that I have worked on for countless hours!
+- :star: Projects I worked on: <a href="https://josh-tjiauw.github.io/ajax-project/">Movie Reviewer</a>
 - 🔭 I’m currently working on a travel application!
 - 🌱 I’m currently learning in JavaScript React!
 - :mailbox: How to reach me: tjiauwj675@gmail.com, <a href="https://www.linkedin.com/in/josh-tjiauw/">LinkedIn</a>
+
+ </p>
+
