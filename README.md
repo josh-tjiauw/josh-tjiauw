@@ -1,4 +1,14 @@
-### Hi there 👋
+### 👋 :earth_americas: Hello World!
+
+:v: Hi everyone! I'm Josua (Josh) Tjiauw, a Full Stack Web Developer currently residing in South California. 
+
+**Languages/Tools:**
+<p>
+<img height="20px" alt="HTML5" src="https://i.imgur.com/lQaVUxo.png" />
+  
+</p>
+
+:heart: I became a web developer because I fell in love for designing websites from an early age. Looking at the different UI components, how it is structured, and how well it interacts with each other made me motivated to learn how to do it myself.
 
 <!--
 **josh-tjiauw/josh-tjiauw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
