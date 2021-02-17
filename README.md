@@ -16,7 +16,7 @@
 </p>
 
 <h1>About Me</h1>
-<h3>:pencil2: My web developer journey started from a young age. I have always been curious on how UI's and &tab;functionalities are constructed in websites.</h3>
+<h3>:pencil2: My web developer journey started from a young age. I have always been curious on how UI's and functionalities are constructed in websites.</h3>
 <h3>:muscle: What keeps me going in development is the feeling of accomplishment after finishing that problem or project that I have worked on for countless hours!</h3>
 <h3>:star: Projects I worked on: <a href="https://josh-tjiauw.github.io/ajax-project/">Movie Reviewer</a></h3>
 <h3>🔭 I’m currently working on a travel application!</h3>
