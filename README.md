@@ -18,8 +18,8 @@
 :heart: My web developer journey started from a young age, since I am always curious on how UI's of websites can do many different things and designed in different ways.
 
 - 🔭 I’m currently working on a travel application!
-- 🌱 I’m currently learning React!
-:mailbox: How to reach me: <a href="tjiauwj675@gmail.com">Email</a>, <a href="https://www.linkedin.com/in/josh-tjiauw/">LinkedIn</a>
+- 🌱 I’m currently learning in JavaScript React!
+- :mailbox: How to reach me: <a href="tjiauwj675@gmail.com">Email</a>, <a href="https://www.linkedin.com/in/josh-tjiauw/">LinkedIn</a>
 <!--
 **josh-tjiauw/josh-tjiauw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
