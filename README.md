@@ -4,15 +4,15 @@
 
 <h1>Languages/Tools:</h1>
 <p>
-<img height="20px" alt="HTML5" src="https://i.imgur.com/lQaVUxo.png" />
-<img height="20px" alt="CSS" src="https://i.imgur.com/u2jucCQ.png" />
-<img height="20px" alt="JavaScript" src="https://i.imgur.com/pHYmZwg.png" />
-<img height="20px" alt="Python" src="https://i.imgur.com/TCfPUjA.png" />
-<img height="20px" alt="C++" src="https://i.imgur.com/d4tEAzD.png" />
-<img height="20px" alt="React" src="https://i.imgur.com/IU3xwR7.png" />
-<img height="20px" alt="Node.js" src="https://i.imgur.com/7oNhI75.png" />
-<img height="20px" alt="PostgreSQL" src="https://i.imgur.com/ZtTku9j.png" />
-<img height="20px" alt="GitHub" src="https://i.imgur.com/TBjHE5Y.png" />
+<img height="40px" alt="HTML5" src="https://i.imgur.com/lQaVUxo.png" />
+<img height="40px" alt="CSS" src="https://i.imgur.com/u2jucCQ.png" />
+<img height="40px" alt="JavaScript" src="https://i.imgur.com/pHYmZwg.png" />
+<img height="40px" alt="Python" src="https://i.imgur.com/TCfPUjA.png" />
+<img height="40px" alt="C++" src="https://i.imgur.com/d4tEAzD.png" />
+<img height="40px" alt="React" src="https://i.imgur.com/IU3xwR7.png" />
+<img height="40px" alt="Node.js" src="https://i.imgur.com/7oNhI75.png" />
+<img height="40px" alt="PostgreSQL" src="https://i.imgur.com/ZtTku9j.png" />
+<img height="40px" alt="GitHub" src="https://i.imgur.com/TBjHE5Y.png" />
 </p>
 
 <h1>About Me</h1>
