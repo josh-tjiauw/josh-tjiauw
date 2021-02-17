@@ -12,7 +12,7 @@
 <img height="20px" alt="React" src="https://i.imgur.com/IU3xwR7.png" />
 <img height="20px" alt="Node.js" src="https://i.imgur.com/7oNhI75.png" />
 <img height="20px" alt="PostgreSQL" src="https://i.imgur.com/ZtTku9j.png" />
-<img height="20px" alt="GitHub" src="https://i.imgur.com/u7cDmQI.png" />
+<img height="20px" alt="GitHub" src="https://i.imgur.com/TBjHE5Y.png" />
 </p>
 
 <h1>About Me</h1>
