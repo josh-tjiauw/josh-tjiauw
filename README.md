@@ -23,6 +23,5 @@
 - 🔭 I’m currently working on a travel application!
 - 🌱 I’m currently learning in JavaScript React!
 - :mailbox: How to reach me: tjiauwj675@gmail.com, <a href="https://www.linkedin.com/in/josh-tjiauw/">LinkedIn</a>
-
  </p>
 
