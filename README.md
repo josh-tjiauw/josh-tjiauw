@@ -5,7 +5,7 @@
 <h1>Languages/Tools:</h1>
 <p>
 <img height="20px" alt="HTML5" src="https://i.imgur.com/lQaVUxo.png" />
-<img height="20px" alt="CSS" src="https://i.imgur.com/isbOCxq.png" />
+<img height="20px" alt="CSS" src="https://i.imgur.com/u2jucCQ.png" />
 <img height="20px" alt="JavaScript" src="https://i.imgur.com/pHYmZwg.png" />
 <img height="20px" alt="Python" src="https://i.imgur.com/TCfPUjA.png" />
 <img height="20px" alt="C++" src="https://i.imgur.com/d4tEAzD.png" />
