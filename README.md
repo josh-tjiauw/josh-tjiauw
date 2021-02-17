@@ -21,4 +21,4 @@
 <h3>:star: Projects I worked on: <a href="https://josh-tjiauw.github.io/ajax-project/">Movie Reviewer</a></h3>
 <h3>🔭 I’m currently working on a travel application!</h3>
 <h3>🌱 I’m currently learning in JavaScript React!</h3>
-<h3>:mailbox: How to reach me: tjiauwj675@gmail.com, <a href="https://www.linkedin.com/in/josh-tjiauw/">LinkedIn</a></h3>
+<h3>:mailbox: How to reach me: <a href="https://www.linkedin.com/in/josh-tjiauw/">LinkedIn</a></h3>
