@@ -17,5 +17,5 @@
 <h3>:pencil2: My developer journey started from a young age. Browsing through the internet and playing videogames throughout my childhood, I can't help but wonder how other developers implement these UI components and functionality that millions of users use daily. Thus, I decided to delve deeper in learning and understanding how computers worked.</h3>
 <h3>:muscle: What keeps me going in development is the feeling of accomplishment after finishing that problem or project that I have worked on for countless hours!</h3>
 <h3>:star: Projects I worked on: <a href="https://josh-tjiauw.github.io/ajax-project/">Movie Reviewer</a> <a href="https://github.com/josh-tjiauw/ajax-project">(Source Code)</a>, <a href="https://travel-planner-tc.herokuapp.com/">Travel Companion</a> <a href="https://github.com/josh-tjiauw/travel-companion">(Source Code)</a></h3>
-<h3>🔭 I’m currently learning PHP!</h3>
+<h3>🔭 I’m currently learning PHP and GraphQL!</h3>
 <h3>:mailbox: How to reach me: <a href="https://www.linkedin.com/in/josh-tjiauw/">LinkedIn</a> <a href="https://drive.google.com/file/d/13XC8t2qYIsTysRKvJYxKj0L-Oi7qf3ID/view?usp=sharing">Resume</a></h3>
