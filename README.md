@@ -19,4 +19,4 @@
 <h3>:star: Projects I worked on: <a href="https://josh-tjiauw.github.io/ajax-project/">Movie Reviewer</a> <a href="https://github.com/josh-tjiauw/ajax-project">(Source Code)</a>, <a href="https://travel-planner-tc.herokuapp.com/">Travel Companion</a> <a href="https://github.com/josh-tjiauw/travel-companion">(Source Code)</a></h3>
 <h3>🔭 I’m currently learning PHP and GraphQL!</h3>
 <h3>:dart: I plan to implement a project using JavaScript, PHP, and GraphQL.</h3>
-<h3>:mailbox: How to reach me: <a href="https://www.linkedin.com/in/josh-tjiauw/">LinkedIn</a> <a href="https://drive.google.com/file/d/13XC8t2qYIsTysRKvJYxKj0L-Oi7qf3ID/view?usp=sharing">Resume</a></h3>
+<h3>:mailbox: How to reach me: <a href="https://www.linkedin.com/in/josh-tjiauw/">LinkedIn</a> <a href="https://drive.google.com/file/d/1tBeA3LsOgQZIHK3wr5UCJmlChK0qqnD_/view?usp=sharing">Resume</a></h3>
