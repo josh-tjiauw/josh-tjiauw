@@ -1,22 +1,56 @@
-### 👋 :earth_americas: Hello World!
+# Hi, I'm Josh Tjiauw
 
-:v: Hi everyone! I'm Josua (Josh) Tjiauw, a Full Stack Web Developer currently residing in South California. 
+I'm a software engineer with a B.S. in Computer Science, focused on building reliable full-stack applications and data-driven systems.
 
-<h1>Languages/Tools:</h1>
-<p>
-<img height="40px" alt="HTML5" src="https://i.imgur.com/lQaVUxo.png" />
-<img height="40px" alt="CSS" src="https://i.imgur.com/u2jucCQ.png" />
-<img height="40px" alt="JavaScript" src="https://i.imgur.com/pHYmZwg.png" />
-<img height="40px" alt="React" src="https://i.imgur.com/IU3xwR7.png" />
-<img height="40px" alt="Node.js" src="https://i.imgur.com/7oNhI75.png" />
-<img height="40px" alt="PostgreSQL" src="https://i.imgur.com/ZtTku9j.png" />
-<img height="40px" alt="GitHub" src="https://i.imgur.com/TBjHE5Y.png" />
-</p>
+My recent work includes a deployed inventory management platform, machine-learning pipelines, and database applications using Oracle APEX and PostgreSQL.
 
-<h1>About Me</h1>
-<h3>:pencil2: My developer journey started from a young age. Browsing through the internet and playing videogames throughout my childhood, I can't help but wonder how other developers implement these UI components and functionality that millions of users use daily. Thus, I decided to delve deeper in learning and understanding how computers worked.</h3>
-<h3>:muscle: What keeps me going in development is the feeling of accomplishment after finishing that problem or project that I have worked on for countless hours!</h3>
-<h3>:star: Projects I worked on: <a href="https://josh-tjiauw.github.io/ajax-project/">Movie Reviewer</a> <a href="https://github.com/josh-tjiauw/ajax-project">(Source Code)</a>, <a href="https://travel-planner-tc.herokuapp.com/">Travel Companion</a> <a href="https://github.com/josh-tjiauw/travel-companion">(Source Code)</a></h3>
-<h3>🔭 I’m currently learning PHP and GraphQL!</h3>
-<h3>:dart: I plan to implement a project using JavaScript, PHP, and GraphQL.</h3>
-<h3>:mailbox: How to reach me: <a href="https://www.linkedin.com/in/josh-tjiauw/">LinkedIn</a> <a href="https://drive.google.com/file/d/1tBeA3LsOgQZIHK3wr5UCJmlChK0qqnD_/view?usp=sharing">Resume</a></h3>
+## Featured Projects
+
+### [Inventrack](https://github.com/josh-tjiauw/inventrack)
+
+Enterprise-style inventory management system built with React, Node.js, Express, and PostgreSQL.
+
+- Designed transaction-safe receiving and exporting workflows
+- Implemented FEFO inventory allocation and an auditable stock-movement ledger
+- Added database constraints, integration tests, and GitHub Actions CI
+- Deployed with Vercel, Render, and Neon
+
+[Live Demo](https://inventrack-cyan.vercel.app) · [Source Code](https://github.com/josh-tjiauw/inventrack)
+
+### [Financial News Sentiment Trader](https://github.com/josh-tjiauw/financial-news-sentiment-trader)
+
+Python machine-learning pipeline that evaluates whether financial-news sentiment can help predict next-day stock movement.
+
+- Built data ingestion, preprocessing, modeling, and backtesting workflows
+- Developed a TF-IDF and logistic-regression baseline
+- Added realistic transaction costs, benchmark comparisons, and performance metrics
+- Created an interactive Streamlit dashboard
+
+### [Income Prediction with Machine Learning](https://github.com/josh-tjiauw/Predicting-Income-Levels-with-Machine-Learning)
+
+Reproducible classification project comparing five models on the UCI Adult dataset.
+
+- Compared logistic regression, KNN, random forest, decision tree, and SVM
+- Built reusable preprocessing pipelines for numeric and categorical data
+- Evaluated full and reduced feature sets
+- Generated repeatable metrics and confusion-matrix visualizations
+
+## Technical Skills
+
+**Languages:** JavaScript, TypeScript, Python, SQL, HTML, CSS  
+**Frontend:** React, React Router  
+**Backend:** Node.js, Express, REST APIs  
+**Databases:** PostgreSQL, Oracle SQL, SQLite  
+**Data & ML:** pandas, scikit-learn, model evaluation, data visualization  
+**Tools:** Git, GitHub Actions, Postman, Vercel, Render, Neon, Oracle APEX
+
+## Currently Working On
+
+- Building production-style full-stack applications
+- Strengthening software testing, system design, and database architecture
+- Developing applications with Oracle APEX and SQL
+- Applying machine learning to practical software projects
+
+## Connect With Me
+
+[LinkedIn](https://www.linkedin.com/in/josh-tjiauw/) · [GitHub](https://github.com/josh-tjiauw)
